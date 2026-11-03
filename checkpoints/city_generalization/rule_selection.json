@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "policy": "priority",
+      "mode": "relay",
+      "reward": 147.0965565890435
+    },
+    {
+      "policy": "priority",
+      "mode": "scout",
+      "reward": 182.68403247769402
+    },
+    {
+      "policy": "priority",
+      "mode": "joint",
+      "reward": 197.00053950250938
+    },
+    {
+      "policy": "priority",
+      "mode": "auto",
+      "reward": 182.68403247769402
+    },
+    {
+      "policy": "deadline",
+      "mode": "relay",
+      "reward": 132.57975216553373
+    },
+    {
+      "policy": "deadline",
+      "mode": "scout",
+      "reward": 173.4645742478832
+    },
+    {
+      "policy": "deadline",
+      "mode": "joint",
+      "reward": 167.48132628841023
+    },
+    {
+      "policy": "deadline",
+      "mode": "auto",
+      "reward": 173.4645742478832
+    }
+  ],
+  "selected": {
+    "policy": "priority",
+    "mode": "joint",
+    "reward": 197.00053950250938
+  }
+}

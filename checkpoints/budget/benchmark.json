@@ -1,0 +1,105 @@
+{
+  "protocol": {
+    "train": [
+      81000,
+      81001,
+      81002,
+      81003,
+      81004,
+      81005,
+      81006,
+      81007,
+      81008,
+      81009,
+      81010,
+      81011,
+      81012,
+      81013,
+      81014,
+      81015,
+      81016,
+      81017,
+      81018,
+      81019
+    ],
+    "validation": [
+      82000,
+      82001,
+      82002,
+      82003
+    ],
+    "test": [
+      83000,
+      83001,
+      83002,
+      83003,
+      83004,
+      83005,
+      83006,
+      83007,
+      83008,
+      83009
+    ],
+    "packages": 12,
+    "limit_s": 180.0,
+    "teacher": "feasible value / estimated full cycle time",
+    "objective": "correct confirmed receipt before order deadline AND operation cutoff; priority 1/2/3 = 1/3/9 points",
+    "meeting": "eta rule shared by all arms",
+    "perception": "inspection oracle fixture",
+    "control": "kinematic; not a Gazebo benchmark",
+    "training": "behavior cloning of dispatch only; no test fitting"
+  },
+  "checkpoint_sha256": "a2b644d0f68bdc745cd5fcacfa7109c6b4289e45e2a37f0d8c9b4dc1cb30eaf0",
+  "summary": [
+    {
+      "policy": "fifo",
+      "episodes": 10,
+      "mean_score": 15.2,
+      "on_time": 38,
+      "urgent_on_time": 11,
+      "urgent_total": 26,
+      "total": 120,
+      "mean_distance_m": 501.82233444074166
+    },
+    {
+      "policy": "priority",
+      "episodes": 10,
+      "mean_score": 21.9,
+      "on_time": 29,
+      "urgent_on_time": 22,
+      "urgent_total": 26,
+      "total": 120,
+      "mean_distance_m": 538.2501444692998
+    },
+    {
+      "policy": "value",
+      "episodes": 10,
+      "mean_score": 23.5,
+      "on_time": 35,
+      "urgent_on_time": 22,
+      "urgent_total": 26,
+      "total": 120,
+      "mean_distance_m": 474.17688610506883
+    },
+    {
+      "policy": "untrained",
+      "episodes": 10,
+      "mean_score": 16.2,
+      "on_time": 24,
+      "urgent_on_time": 15,
+      "urgent_total": 26,
+      "total": 120,
+      "mean_distance_m": 648.266179491012
+    },
+    {
+      "policy": "learned",
+      "episodes": 10,
+      "mean_score": 23.5,
+      "on_time": 35,
+      "urgent_on_time": 22,
+      "urgent_total": 26,
+      "total": 120,
+      "mean_distance_m": 474.393450398329
+    }
+  ]
+}

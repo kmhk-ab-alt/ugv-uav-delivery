@@ -1,0 +1,25 @@
+/**:
+  ros__parameters:
+    scene_perception: "off"
+    site_events: true
+    speed_scale: 1.0
+    ground_speed: 2.4
+    uav_speed: 5.2
+    lockstep: false  # Gazebo advances with measured feedback when enabled
+    city_layout: lanes  # lanes (legacy benchmark) / blocks (shared urban streets)
+    ground_count: 1
+    uav_count: 1
+    package_count: 3
+    mode: relay  # relay / scout / joint
+    headless: true
+    stub: false
+    model: nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
+    base_url: https://openrouter.ai/api/v1
+    mission_timeout: 600.0
+    operation_limit: 0.0  # simulation service cutoff; 0 disables budget scoring
+    budget_policy: learned  # learned / untrained / value / priority / fifo / random
+    budget_checkpoint: ""  # empty uses bundled budget checkpoint
+    seed: 0
+    randomize: false
+    record_dir: ""
+    priorities: ""  # 1=normal, 2=high, 3=urgent; e.g. "1,3,2"

@@ -1,0 +1,17 @@
+[workspace]
+name = "pai-ros2-gazebo"
+channels = ["https://prefix.dev/robostack-jazzy", "conda-forge"]
+platforms = ["osx-arm64"]
+
+[dependencies]
+ros-jazzy-ros-base = "*"
+ros-jazzy-ros-gz = "*"
+ros-dev-tools = "*"
+pip = "*"
+
+[pypi-dependencies]
+openai = "*"
+Pillow = "*"
+
+[tasks]
+ros-check = "python -c 'import rclpy; print(\"ROS 2 import OK\")'"

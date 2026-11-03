@@ -1,0 +1,20 @@
+from setuptools import setup
+from glob import glob
+setup(name='pai_ros', version='0.1.0', packages=['pai_ros'],
+    data_files=[('share/ament_index/resource_index/packages', ['resource/pai_ros']),
+                ('share/pai_ros', ['package.xml']),
+                ('share/pai_ros/launch', ['launch/demo.launch.py', 'launch/reaction.launch.py']),
+                ('share/pai_ros/config', ['config/fleet.yaml']),
+                ('share/pai_ros/checkpoints/native_dispatch_v3', glob('checkpoints/native_dispatch_v3/*.npz')),
+                ('share/pai_ros/checkpoints/city_generalization', glob('checkpoints/city_generalization/*')),
+                ('share/pai_ros/checkpoints/budget_blocks', glob('checkpoints/budget_blocks/*')),
+                ('share/pai_ros/checkpoints/budget', glob('checkpoints/budget/*')),
+                ('share/pai_ros/checkpoints/rendezvous', glob('checkpoints/rendezvous/*')),
+                ('share/pai_ros/checkpoints/site_dispatch', glob('checkpoints/site_dispatch/*')),
+                ('share/pai_ros/showcase', glob('showcase/*.html')+glob('showcase/*.js')+glob('showcase/*.obj')),
+                ('share/pai_ros/showcase/vendor', glob('showcase/vendor/*')),
+                ('share/pai_ros/plugins', ['plugins/CargoGrip.cc','plugins/CMakeLists.txt'])],
+    install_requires=['setuptools', 'numpy', 'mujoco', 'Pillow', 'openai'],
+    maintainer='PAI maintainers', maintainer_email='maintainer@example.com',
+    description='ROS 2 cooperative ground and UAV cargo fleet', license='Proprietary',
+    entry_points={'console_scripts': ['sim = pai_ros.sim:main', 'planner = pai_ros.planner:main', 'fleet_sim = pai_ros.fleet_nodes:sim_main', 'cargo_planner = pai_ros.fleet_nodes:planner_main']})

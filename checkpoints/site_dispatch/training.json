@@ -1,0 +1,11 @@
+{
+  "model": "32-hidden-unit candidate MLP, NumPy",
+  "method": "behavior cloning",
+  "teacher": "feasible value / estimated cycle time",
+  "episodes": 12,
+  "epochs": 35,
+  "samples": 33,
+  "layout": "numbered mixed city/mountain",
+  "perception": "synthetic site images during training",
+  "baseline_comparison": false
+}

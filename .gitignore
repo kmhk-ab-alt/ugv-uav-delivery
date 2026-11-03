@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.pixi/
+build/
+install/
+log/
+runtime/
+*.log
+.env
+.env.*
+!.env.example
+openrouter-api-key
+*.egg-info/
+
+# Keep personal reports and experiment notes local.
+/docs/

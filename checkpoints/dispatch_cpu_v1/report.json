@@ -1,0 +1,3452 @@
+{
+  "training_seconds": 3.218945749977138,
+  "selected_stage": "bc",
+  "validation_mean_reward": 151.74800000000002,
+  "history": [
+    {
+      "stage": "bc",
+      "epoch": 1,
+      "loss": 1.0457034441130073
+    },
+    {
+      "stage": "bc",
+      "epoch": 2,
+      "loss": 0.5525626756445043
+    },
+    {
+      "stage": "bc",
+      "epoch": 3,
+      "loss": 0.4037798512933028
+    },
+    {
+      "stage": "bc",
+      "epoch": 4,
+      "loss": 0.32247452717383623
+    },
+    {
+      "stage": "bc",
+      "epoch": 5,
+      "loss": 0.2736039410105467
+    },
+    {
+      "stage": "bc",
+      "epoch": 6,
+      "loss": 0.24215994897274715
+    },
+    {
+      "stage": "bc",
+      "epoch": 7,
+      "loss": 0.22626667192841313
+    },
+    {
+      "stage": "bc",
+      "epoch": 8,
+      "loss": 0.20892177537512513
+    },
+    {
+      "stage": "bc",
+      "epoch": 9,
+      "loss": 0.20525033673699478
+    },
+    {
+      "stage": "bc",
+      "epoch": 10,
+      "loss": 0.18986196563679578
+    },
+    {
+      "stage": "bc",
+      "epoch": 11,
+      "loss": 0.18261956913699984
+    },
+    {
+      "stage": "bc",
+      "epoch": 12,
+      "loss": 0.17958434998054176
+    },
+    {
+      "stage": "bc",
+      "epoch": 13,
+      "loss": 0.1715577870527808
+    },
+    {
+      "stage": "bc",
+      "epoch": 14,
+      "loss": 0.1714525964717056
+    },
+    {
+      "stage": "bc",
+      "epoch": 15,
+      "loss": 0.16745141130424704
+    },
+    {
+      "stage": "bc",
+      "epoch": 16,
+      "loss": 0.16087228767082695
+    },
+    {
+      "stage": "bc",
+      "epoch": 17,
+      "loss": 0.15864559939936737
+    },
+    {
+      "stage": "bc",
+      "epoch": 18,
+      "loss": 0.15751153734695075
+    },
+    {
+      "stage": "bc",
+      "epoch": 19,
+      "loss": 0.15554650736380957
+    },
+    {
+      "stage": "bc",
+      "epoch": 20,
+      "loss": 0.1482130898251897
+    },
+    {
+      "stage": "bc",
+      "epoch": 21,
+      "loss": 0.14841618246336782
+    },
+    {
+      "stage": "bc",
+      "epoch": 22,
+      "loss": 0.1397214467024833
+    },
+    {
+      "stage": "bc",
+      "epoch": 23,
+      "loss": 0.14786674130562494
+    },
+    {
+      "stage": "bc",
+      "epoch": 24,
+      "loss": 0.14602521284638184
+    },
+    {
+      "stage": "bc",
+      "epoch": 25,
+      "loss": 0.1420665662591897
+    },
+    {
+      "stage": "bc",
+      "epoch": 26,
+      "loss": 0.1366241694860366
+    },
+    {
+      "stage": "bc",
+      "epoch": 27,
+      "loss": 0.14073239787115158
+    },
+    {
+      "stage": "bc",
+      "epoch": 28,
+      "loss": 0.13554106724755074
+    },
+    {
+      "stage": "bc",
+      "epoch": 29,
+      "loss": 0.1355681079342871
+    },
+    {
+      "stage": "bc",
+      "epoch": 30,
+      "loss": 0.13018859813402175
+    },
+    {
+      "stage": "rl",
+      "episode": 1,
+      "seed": 100,
+      "reward": 124.98999999999991
+    },
+    {
+      "stage": "rl",
+      "episode": 2,
+      "seed": 101,
+      "reward": 143.54000000000002
+    },
+    {
+      "stage": "rl",
+      "episode": 3,
+      "seed": 102,
+      "reward": 185.18000000000006
+    },
+    {
+      "stage": "rl",
+      "episode": 4,
+      "seed": 103,
+      "reward": 185.19999999999996
+    },
+    {
+      "stage": "rl",
+      "episode": 5,
+      "seed": 104,
+      "reward": 125.41999999999994
+    },
+    {
+      "stage": "rl",
+      "episode": 6,
+      "seed": 105,
+      "reward": 204.71999999999997
+    },
+    {
+      "stage": "rl",
+      "episode": 7,
+      "seed": 106,
+      "reward": 169.25999999999993
+    },
+    {
+      "stage": "rl",
+      "episode": 8,
+      "seed": 107,
+      "reward": 133.37999999999988
+    },
+    {
+      "stage": "rl",
+      "episode": 9,
+      "seed": 108,
+      "reward": 135.06
+    },
+    {
+      "stage": "rl",
+      "episode": 10,
+      "seed": 109,
+      "reward": 164.58000000000004
+    },
+    {
+      "stage": "rl",
+      "episode": 11,
+      "seed": 110,
+      "reward": 144.92
+    },
+    {
+      "stage": "rl",
+      "episode": 12,
+      "seed": 111,
+      "reward": 145.18000000000006
+    },
+    {
+      "stage": "rl",
+      "episode": 13,
+      "seed": 112,
+      "reward": 164.83
+    },
+    {
+      "stage": "rl",
+      "episode": 14,
+      "seed": 113,
+      "reward": 173.75000000000006
+    },
+    {
+      "stage": "rl",
+      "episode": 15,
+      "seed": 114,
+      "reward": 174.30999999999975
+    },
+    {
+      "stage": "rl",
+      "episode": 16,
+      "seed": 115,
+      "reward": 154.63000000000005,
+      "validation_mean_reward": 151.74800000000002
+    },
+    {
+      "stage": "rl",
+      "episode": 17,
+      "seed": 116,
+      "reward": 183.5200000000002
+    },
+    {
+      "stage": "rl",
+      "episode": 18,
+      "seed": 117,
+      "reward": 134.04999999999984
+    },
+    {
+      "stage": "rl",
+      "episode": 19,
+      "seed": 118,
+      "reward": 154.54999999999995
+    },
+    {
+      "stage": "rl",
+      "episode": 20,
+      "seed": 119,
+      "reward": 140.39999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 21,
+      "seed": 120,
+      "reward": 124.52999999999996
+    },
+    {
+      "stage": "rl",
+      "episode": 22,
+      "seed": 121,
+      "reward": 179.8399999999999
+    },
+    {
+      "stage": "rl",
+      "episode": 23,
+      "seed": 122,
+      "reward": 214.62000000000006
+    },
+    {
+      "stage": "rl",
+      "episode": 24,
+      "seed": 123,
+      "reward": 146.84999999999997
+    },
+    {
+      "stage": "rl",
+      "episode": 25,
+      "seed": 124,
+      "reward": 140.07000000000005
+    },
+    {
+      "stage": "rl",
+      "episode": 26,
+      "seed": 125,
+      "reward": 143.69999999999996
+    },
+    {
+      "stage": "rl",
+      "episode": 27,
+      "seed": 126,
+      "reward": 162.89999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 28,
+      "seed": 127,
+      "reward": 165.07000000000005
+    },
+    {
+      "stage": "rl",
+      "episode": 29,
+      "seed": 128,
+      "reward": 160.4099999999999
+    },
+    {
+      "stage": "rl",
+      "episode": 30,
+      "seed": 129,
+      "reward": 152.75000000000006
+    },
+    {
+      "stage": "rl",
+      "episode": 31,
+      "seed": 130,
+      "reward": 144.55000000000004
+    },
+    {
+      "stage": "rl",
+      "episode": 32,
+      "seed": 131,
+      "reward": 175.3800000000001,
+      "validation_mean_reward": 151.74800000000002
+    },
+    {
+      "stage": "rl",
+      "episode": 33,
+      "seed": 132,
+      "reward": 124.5199999999999
+    },
+    {
+      "stage": "rl",
+      "episode": 34,
+      "seed": 133,
+      "reward": 145.36999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 35,
+      "seed": 134,
+      "reward": 182.82
+    },
+    {
+      "stage": "rl",
+      "episode": 36,
+      "seed": 135,
+      "reward": 195.29000000000016
+    },
+    {
+      "stage": "rl",
+      "episode": 37,
+      "seed": 136,
+      "reward": 202.50000000000006
+    },
+    {
+      "stage": "rl",
+      "episode": 38,
+      "seed": 137,
+      "reward": 139.82999999999993
+    },
+    {
+      "stage": "rl",
+      "episode": 39,
+      "seed": 138,
+      "reward": 141.78999999999985
+    },
+    {
+      "stage": "rl",
+      "episode": 40,
+      "seed": 139,
+      "reward": 185.3000000000001
+    },
+    {
+      "stage": "rl",
+      "episode": 41,
+      "seed": 140,
+      "reward": 145.53
+    },
+    {
+      "stage": "rl",
+      "episode": 42,
+      "seed": 141,
+      "reward": 163.20000000000005
+    },
+    {
+      "stage": "rl",
+      "episode": 43,
+      "seed": 142,
+      "reward": 103.93999999999994
+    },
+    {
+      "stage": "rl",
+      "episode": 44,
+      "seed": 143,
+      "reward": 124.69999999999993
+    },
+    {
+      "stage": "rl",
+      "episode": 45,
+      "seed": 144,
+      "reward": 140.01999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 46,
+      "seed": 145,
+      "reward": 174.80999999999986
+    },
+    {
+      "stage": "rl",
+      "episode": 47,
+      "seed": 146,
+      "reward": 164.13999999999996
+    },
+    {
+      "stage": "rl",
+      "episode": 48,
+      "seed": 147,
+      "reward": 150.99999999999986,
+      "validation_mean_reward": 151.74800000000002
+    },
+    {
+      "stage": "rl",
+      "episode": 49,
+      "seed": 148,
+      "reward": 173.63000000000017
+    },
+    {
+      "stage": "rl",
+      "episode": 50,
+      "seed": 149,
+      "reward": 110.00999999999993
+    },
+    {
+      "stage": "rl",
+      "episode": 51,
+      "seed": 150,
+      "reward": 130.73999999999995
+    },
+    {
+      "stage": "rl",
+      "episode": 52,
+      "seed": 151,
+      "reward": 125.43999999999993
+    },
+    {
+      "stage": "rl",
+      "episode": 53,
+      "seed": 152,
+      "reward": 94.42999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 54,
+      "seed": 153,
+      "reward": 133.52999999999997
+    },
+    {
+      "stage": "rl",
+      "episode": 55,
+      "seed": 154,
+      "reward": 184.6299999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 56,
+      "seed": 155,
+      "reward": 175.23000000000025
+    },
+    {
+      "stage": "rl",
+      "episode": 57,
+      "seed": 156,
+      "reward": 155.20999999999992
+    },
+    {
+      "stage": "rl",
+      "episode": 58,
+      "seed": 157,
+      "reward": 115.11999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 59,
+      "seed": 158,
+      "reward": 155.40999999999997
+    },
+    {
+      "stage": "rl",
+      "episode": 60,
+      "seed": 159,
+      "reward": 161.01999999999998
+    },
+    {
+      "stage": "rl",
+      "episode": 61,
+      "seed": 160,
+      "reward": 151.78000000000014
+    },
+    {
+      "stage": "rl",
+      "episode": 62,
+      "seed": 161,
+      "reward": 194.27999999999986
+    },
+    {
+      "stage": "rl",
+      "episode": 63,
+      "seed": 162,
+      "reward": 154.39000000000001
+    },
+    {
+      "stage": "rl",
+      "episode": 64,
+      "seed": 163,
+      "reward": 194.85999999999999,
+      "validation_mean_reward": 151.74800000000002
+    }
+  ],
+  "test": {
+    "untrained": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 147.8329999999999,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.725,
+        "mean_distance": 936.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 13,
+            "total": 29
+          },
+          "2": {
+            "on_time": 18,
+            "total": 22
+          },
+          "3": {
+            "on_time": 27,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1000,
+          "steps": 139,
+          "wall_seconds": 0.014515749993734062,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 6.375,
+          "p95_lateness_delivered": 29.04999999999998,
+          "time": 139.0,
+          "delivered": 8,
+          "on_time": 5,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 268.0,
+          "waits": 38,
+          "route_detours": 3,
+          "reward": 118.21000000000002,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1001,
+          "steps": 150,
+          "wall_seconds": 0.01613079197704792,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 4.75,
+          "p95_lateness_delivered": 24.69999999999998,
+          "time": 150.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 980.0,
+          "energy_used": 296.0,
+          "waits": 40,
+          "route_detours": 1,
+          "reward": 179.7999999999998,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1002,
+          "steps": 142,
+          "wall_seconds": 0.01470120798330754,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 0
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 7.125,
+          "p95_lateness_delivered": 34.04999999999998,
+          "time": 142.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 940.0,
+          "energy_used": 284.0,
+          "waits": 48,
+          "route_detours": 1,
+          "reward": 158.17999999999972,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1003,
+          "steps": 146,
+          "wall_seconds": 0.01603995804907754,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 2
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 9.25,
+          "p95_lateness_delivered": 41.499999999999986,
+          "time": 146.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 920.0,
+          "energy_used": 276.0,
+          "waits": 47,
+          "route_detours": 2,
+          "reward": 174.3399999999999,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1004,
+          "steps": 142,
+          "wall_seconds": 0.014741000020876527,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 1
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 12.0,
+          "p95_lateness_delivered": 49.8,
+          "time": 142.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 940.0,
+          "energy_used": 280.0,
+          "waits": 31,
+          "route_detours": 1,
+          "reward": 144.27999999999975,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1005,
+          "steps": 138,
+          "wall_seconds": 0.013576375029515475,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 0
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 4
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 3.75,
+          "p95_lateness_delivered": 16.99999999999999,
+          "time": 138.0,
+          "delivered": 8,
+          "on_time": 5,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 268.0,
+          "waits": 35,
+          "route_detours": 1,
+          "reward": 140.91999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1006,
+          "steps": 148,
+          "wall_seconds": 0.01669512502849102,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 3.625,
+          "p95_lateness_delivered": 15.549999999999997,
+          "time": 148.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 980.0,
+          "energy_used": 296.0,
+          "waits": 38,
+          "route_detours": 3,
+          "reward": 120.72000000000007,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1007,
+          "steps": 147,
+          "wall_seconds": 0.014963708003051579,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 6
+            }
+          },
+          "mean_lateness_delivered": 8.375,
+          "p95_lateness_delivered": 35.74999999999999,
+          "time": 147.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 940.0,
+          "energy_used": 280.0,
+          "waits": 45,
+          "route_detours": 1,
+          "reward": 194.5299999999998,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1008,
+          "steps": 151,
+          "wall_seconds": 0.01638908399036154,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 5
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 0.375,
+          "p95_lateness_delivered": 1.6499999999999995,
+          "time": 151.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 960.0,
+          "energy_used": 292.0,
+          "waits": 42,
+          "route_detours": 2,
+          "reward": 83.39000000000004,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1009,
+          "steps": 134,
+          "wall_seconds": 0.013972541026305407,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 5.875,
+          "p95_lateness_delivered": 21.199999999999996,
+          "time": 134.0,
+          "delivered": 8,
+          "on_time": 5,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 272.0,
+          "waits": 35,
+          "route_detours": 1,
+          "reward": 163.95999999999984,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    },
+    "priority_rule": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 154.35000000000005,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.9125,
+        "mean_distance": 754.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 22,
+            "total": 29
+          },
+          "2": {
+            "on_time": 22,
+            "total": 22
+          },
+          "3": {
+            "on_time": 29,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1000,
+          "steps": 127,
+          "wall_seconds": 0.011419375019613653,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 3.0,
+          "p95_lateness_delivered": 13.799999999999994,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 820.0,
+          "energy_used": 252.0,
+          "waits": 31,
+          "route_detours": 3,
+          "reward": 122.23000000000002,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1001,
+          "steps": 109,
+          "wall_seconds": 0.009938666014932096,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 109.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 248.0,
+          "waits": 27,
+          "route_detours": 0,
+          "reward": 185.10999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1002,
+          "steps": 124,
+          "wall_seconds": 0.010865791991818696,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.375,
+          "p95_lateness_delivered": 1.9499999999999984,
+          "time": 124.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 780.0,
+          "energy_used": 248.0,
+          "waits": 39,
+          "route_detours": 0,
+          "reward": 164.55999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1003,
+          "steps": 106,
+          "wall_seconds": 0.011059833981562406,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 22,
+          "route_detours": 4,
+          "reward": 185.44000000000034,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1004,
+          "steps": 112,
+          "wall_seconds": 0.011082542012445629,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 1
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 10.499999999999995,
+          "time": 112.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 29,
+          "route_detours": 0,
+          "reward": 153.37999999999985,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1005,
+          "steps": 127,
+          "wall_seconds": 0.01060733402846381,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 240.0,
+          "waits": 26,
+          "route_detours": 1,
+          "reward": 144.92999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1006,
+          "steps": 139,
+          "wall_seconds": 0.013305625005159527,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 4
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 1.125,
+          "p95_lateness_delivered": 5.849999999999995,
+          "time": 139.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 280.0,
+          "waits": 39,
+          "route_detours": 5,
+          "reward": 123.21000000000004,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1007,
+          "steps": 121,
+          "wall_seconds": 0.010329125041607767,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 6
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 11.69999999999999,
+          "time": 121.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 37,
+          "route_detours": 0,
+          "reward": 203.28999999999996,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1008,
+          "steps": 106,
+          "wall_seconds": 0.011863082996569574,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 7
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 244.0,
+          "waits": 24,
+          "route_detours": 4,
+          "reward": 85.43999999999996,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "priority_deadline_eta",
+          "seed": 1009,
+          "steps": 89,
+          "wall_seconds": 0.00842912500957027,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 89.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 640.0,
+          "energy_used": 224.0,
+          "waits": 25,
+          "route_detours": 2,
+          "reward": 175.91000000000022,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    },
+    "deadline_rule": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 154.87900000000008,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.975,
+        "mean_distance": 752.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 27,
+            "total": 29
+          },
+          "2": {
+            "on_time": 22,
+            "total": 22
+          },
+          "3": {
+            "on_time": 29,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1000,
+          "steps": 127,
+          "wall_seconds": 0.011083041958045214,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 4
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 11.69999999999999,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 820.0,
+          "energy_used": 256.0,
+          "waits": 33,
+          "route_detours": 5,
+          "reward": 122.83000000000008,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1001,
+          "steps": 119,
+          "wall_seconds": 0.010838415997568518,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 119.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 248.0,
+          "waits": 42,
+          "route_detours": 0,
+          "reward": 185.01000000000016,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1002,
+          "steps": 130,
+          "wall_seconds": 0.011035250034183264,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 130.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 780.0,
+          "energy_used": 248.0,
+          "waits": 36,
+          "route_detours": 0,
+          "reward": 164.79999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1003,
+          "steps": 105,
+          "wall_seconds": 0.010752208007033914,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 105.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 21,
+          "route_detours": 4,
+          "reward": 185.4500000000003,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1004,
+          "steps": 105,
+          "wall_seconds": 0.009677874972112477,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 105.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 22,
+          "route_detours": 0,
+          "reward": 155.24999999999994,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1005,
+          "steps": 127,
+          "wall_seconds": 0.01056491700001061,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 240.0,
+          "waits": 34,
+          "route_detours": 1,
+          "reward": 144.92999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1006,
+          "steps": 137,
+          "wall_seconds": 0.01314737502252683,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 137.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 880.0,
+          "energy_used": 272.0,
+          "waits": 40,
+          "route_detours": 3,
+          "reward": 124.2299999999999,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1007,
+          "steps": 106,
+          "wall_seconds": 0.009537875012028962,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 6
+            }
+          },
+          "mean_lateness_delivered": 0.375,
+          "p95_lateness_delivered": 1.9499999999999984,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 25,
+          "route_detours": 0,
+          "reward": 204.94000000000005,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1008,
+          "steps": 106,
+          "wall_seconds": 0.012050833029206842,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 7
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 244.0,
+          "waits": 24,
+          "route_detours": 4,
+          "reward": 85.43999999999996,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "earliest_deadline_eta",
+          "seed": 1009,
+          "steps": 89,
+          "wall_seconds": 0.008668624970596284,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 89.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 640.0,
+          "energy_used": 224.0,
+          "waits": 25,
+          "route_detours": 2,
+          "reward": 175.91000000000022,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    },
+    "bc": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 154.33500000000004,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.9,
+        "mean_distance": 754.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 21,
+            "total": 29
+          },
+          "2": {
+            "on_time": 22,
+            "total": 22
+          },
+          "3": {
+            "on_time": 29,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1000,
+          "steps": 127,
+          "wall_seconds": 0.013465625001117587,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 3.0,
+          "p95_lateness_delivered": 13.799999999999994,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 820.0,
+          "energy_used": 252.0,
+          "waits": 31,
+          "route_detours": 3,
+          "reward": 122.23000000000002,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1001,
+          "steps": 109,
+          "wall_seconds": 0.011719750007614493,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 109.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 248.0,
+          "waits": 27,
+          "route_detours": 0,
+          "reward": 185.10999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1002,
+          "steps": 124,
+          "wall_seconds": 0.012739625002723187,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.375,
+          "p95_lateness_delivered": 1.9499999999999984,
+          "time": 124.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 780.0,
+          "energy_used": 248.0,
+          "waits": 39,
+          "route_detours": 0,
+          "reward": 164.55999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1003,
+          "steps": 106,
+          "wall_seconds": 0.012495083035901189,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 22,
+          "route_detours": 4,
+          "reward": 185.44000000000034,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1004,
+          "steps": 112,
+          "wall_seconds": 0.0122516670380719,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 1
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 10.499999999999995,
+          "time": 112.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 29,
+          "route_detours": 0,
+          "reward": 153.37999999999985,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1005,
+          "steps": 127,
+          "wall_seconds": 0.012558416987303644,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 240.0,
+          "waits": 26,
+          "route_detours": 1,
+          "reward": 144.92999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1006,
+          "steps": 139,
+          "wall_seconds": 0.01599479198921472,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 1.375,
+          "p95_lateness_delivered": 6.549999999999996,
+          "time": 139.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 280.0,
+          "waits": 39,
+          "route_detours": 5,
+          "reward": 123.01000000000003,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1007,
+          "steps": 121,
+          "wall_seconds": 0.012375375023111701,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 6
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 11.69999999999999,
+          "time": 121.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 37,
+          "route_detours": 0,
+          "reward": 203.28999999999996,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1008,
+          "steps": 101,
+          "wall_seconds": 0.012181333964690566,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 7
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 101.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 33,
+          "route_detours": 2,
+          "reward": 85.49000000000001,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1009,
+          "steps": 89,
+          "wall_seconds": 0.009735000028740615,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 89.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 640.0,
+          "energy_used": 224.0,
+          "waits": 25,
+          "route_detours": 2,
+          "reward": 175.91000000000022,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    },
+    "rl_last": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 154.33500000000004,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.9,
+        "mean_distance": 754.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 21,
+            "total": 29
+          },
+          "2": {
+            "on_time": 22,
+            "total": 22
+          },
+          "3": {
+            "on_time": 29,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1000,
+          "steps": 127,
+          "wall_seconds": 0.013489000033587217,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 3.0,
+          "p95_lateness_delivered": 13.799999999999994,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 820.0,
+          "energy_used": 252.0,
+          "waits": 31,
+          "route_detours": 3,
+          "reward": 122.23000000000002,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1001,
+          "steps": 109,
+          "wall_seconds": 0.011660749965813011,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 109.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 248.0,
+          "waits": 27,
+          "route_detours": 0,
+          "reward": 185.10999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1002,
+          "steps": 124,
+          "wall_seconds": 0.012864875025115907,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.375,
+          "p95_lateness_delivered": 1.9499999999999984,
+          "time": 124.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 780.0,
+          "energy_used": 248.0,
+          "waits": 39,
+          "route_detours": 0,
+          "reward": 164.55999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1003,
+          "steps": 106,
+          "wall_seconds": 0.012551958032418042,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 22,
+          "route_detours": 4,
+          "reward": 185.44000000000034,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1004,
+          "steps": 112,
+          "wall_seconds": 0.012124666012823582,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 1
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 10.499999999999995,
+          "time": 112.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 29,
+          "route_detours": 0,
+          "reward": 153.37999999999985,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1005,
+          "steps": 127,
+          "wall_seconds": 0.01244625000981614,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 240.0,
+          "waits": 26,
+          "route_detours": 1,
+          "reward": 144.92999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1006,
+          "steps": 139,
+          "wall_seconds": 0.015684207959566265,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 1.375,
+          "p95_lateness_delivered": 6.549999999999996,
+          "time": 139.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 280.0,
+          "waits": 39,
+          "route_detours": 5,
+          "reward": 123.01000000000003,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1007,
+          "steps": 121,
+          "wall_seconds": 0.012136459001339972,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 6
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 11.69999999999999,
+          "time": 121.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 37,
+          "route_detours": 0,
+          "reward": 203.28999999999996,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1008,
+          "steps": 101,
+          "wall_seconds": 0.012235124944709241,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 7
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 101.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 33,
+          "route_detours": 2,
+          "reward": 85.49000000000001,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1009,
+          "steps": 89,
+          "wall_seconds": 0.009789041010662913,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 89.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 640.0,
+          "energy_used": 224.0,
+          "waits": 25,
+          "route_detours": 2,
+          "reward": 175.91000000000022,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    },
+    "selected": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 154.33500000000004,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.9,
+        "mean_distance": 754.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 21,
+            "total": 29
+          },
+          "2": {
+            "on_time": 22,
+            "total": 22
+          },
+          "3": {
+            "on_time": 29,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1000,
+          "steps": 127,
+          "wall_seconds": 0.013301083003170788,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 3.0,
+          "p95_lateness_delivered": 13.799999999999994,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 820.0,
+          "energy_used": 252.0,
+          "waits": 31,
+          "route_detours": 3,
+          "reward": 122.23000000000002,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1001,
+          "steps": 109,
+          "wall_seconds": 0.011583917017560452,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 109.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 248.0,
+          "waits": 27,
+          "route_detours": 0,
+          "reward": 185.10999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1002,
+          "steps": 124,
+          "wall_seconds": 0.012587125005666167,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.375,
+          "p95_lateness_delivered": 1.9499999999999984,
+          "time": 124.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 780.0,
+          "energy_used": 248.0,
+          "waits": 39,
+          "route_detours": 0,
+          "reward": 164.55999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1003,
+          "steps": 106,
+          "wall_seconds": 0.012412334035616368,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 106.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 22,
+          "route_detours": 4,
+          "reward": 185.44000000000034,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1004,
+          "steps": 112,
+          "wall_seconds": 0.012291999999433756,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 1
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 10.499999999999995,
+          "time": 112.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 29,
+          "route_detours": 0,
+          "reward": 153.37999999999985,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1005,
+          "steps": 127,
+          "wall_seconds": 0.012568000005558133,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 5
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 127.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 760.0,
+          "energy_used": 240.0,
+          "waits": 26,
+          "route_detours": 1,
+          "reward": 144.92999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1006,
+          "steps": 139,
+          "wall_seconds": 0.015810999961104244,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 1.375,
+          "p95_lateness_delivered": 6.549999999999996,
+          "time": 139.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 900.0,
+          "energy_used": 280.0,
+          "waits": 39,
+          "route_detours": 5,
+          "reward": 123.01000000000003,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1007,
+          "steps": 121,
+          "wall_seconds": 0.012059542001225054,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 6
+            }
+          },
+          "mean_lateness_delivered": 2.25,
+          "p95_lateness_delivered": 11.69999999999999,
+          "time": 121.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 740.0,
+          "energy_used": 240.0,
+          "waits": 37,
+          "route_detours": 0,
+          "reward": 203.28999999999996,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1008,
+          "steps": 101,
+          "wall_seconds": 0.012172332964837551,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 7
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 101.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 700.0,
+          "energy_used": 240.0,
+          "waits": 33,
+          "route_detours": 2,
+          "reward": 85.49000000000001,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "learned_scoring_mlp",
+          "seed": 1009,
+          "steps": 89,
+          "wall_seconds": 0.009808874980080873,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 89.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 640.0,
+          "energy_used": 224.0,
+          "waits": 25,
+          "route_detours": 2,
+          "reward": 175.91000000000022,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    },
+    "random": {
+      "summary": {
+        "episodes": 10,
+        "mean_reward": 146.1649999999999,
+        "delivery_rate": 1.0,
+        "on_time_rate": 0.8125,
+        "mean_distance": 846.0,
+        "priority_on_time": {
+          "1": {
+            "on_time": 20,
+            "total": 29
+          },
+          "2": {
+            "on_time": 19,
+            "total": 22
+          },
+          "3": {
+            "on_time": 26,
+            "total": 29
+          }
+        }
+      },
+      "episodes": [
+        {
+          "policy": "random_dispatch",
+          "seed": 1000,
+          "steps": 142,
+          "wall_seconds": 0.013191667036153376,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 14.25,
+          "p95_lateness_delivered": 51.19999999999999,
+          "time": 142.0,
+          "delivered": 8,
+          "on_time": 5,
+          "total": 8,
+          "returned": 8,
+          "distance": 860.0,
+          "energy_used": 256.0,
+          "waits": 20,
+          "route_detours": 3,
+          "reward": 112.87999999999985,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1001,
+          "steps": 154,
+          "wall_seconds": 0.013046832988038659,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 5.25,
+          "p95_lateness_delivered": 26.09999999999998,
+          "time": 154.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 920.0,
+          "energy_used": 280.0,
+          "waits": 16,
+          "route_detours": 0,
+          "reward": 171.25999999999993,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1002,
+          "steps": 143,
+          "wall_seconds": 0.014638332999311388,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 2
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 3.75,
+          "p95_lateness_delivered": 19.499999999999986,
+          "time": 143.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 860.0,
+          "energy_used": 268.0,
+          "waits": 28,
+          "route_detours": 1,
+          "reward": 158.26999999999987,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1003,
+          "steps": 133,
+          "wall_seconds": 0.012280458002351224,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            },
+            "3": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            }
+          },
+          "mean_lateness_delivered": 6.75,
+          "p95_lateness_delivered": 35.09999999999997,
+          "time": 133.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 800.0,
+          "energy_used": 244.0,
+          "waits": 27,
+          "route_detours": 1,
+          "reward": 179.26999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1004,
+          "steps": 142,
+          "wall_seconds": 0.012176292017102242,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 2
+            },
+            "2": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 10.75,
+          "p95_lateness_delivered": 47.79999999999998,
+          "time": 142.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 860.0,
+          "energy_used": 264.0,
+          "waits": 21,
+          "route_detours": 0,
+          "reward": 142.97999999999985,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1005,
+          "steps": 148,
+          "wall_seconds": 0.01306066702818498,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 1
+            },
+            "2": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 4
+            },
+            "3": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            }
+          },
+          "mean_lateness_delivered": 6.125,
+          "p95_lateness_delivered": 31.249999999999975,
+          "time": 148.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 840.0,
+          "energy_used": 256.0,
+          "waits": 24,
+          "route_detours": 1,
+          "reward": 134.71999999999977,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1006,
+          "steps": 150,
+          "wall_seconds": 0.012646917020902038,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 5,
+              "delivered": 5,
+              "on_time": 4
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 2,
+              "delivered": 2,
+              "on_time": 2
+            }
+          },
+          "mean_lateness_delivered": 8.25,
+          "p95_lateness_delivered": 42.89999999999996,
+          "time": 150.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 940.0,
+          "energy_used": 288.0,
+          "waits": 28,
+          "route_detours": 4,
+          "reward": 117.19999999999987,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1007,
+          "steps": 129,
+          "wall_seconds": 0.010825333010870963,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 0
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 6,
+              "delivered": 6,
+              "on_time": 5
+            }
+          },
+          "mean_lateness_delivered": 9.375,
+          "p95_lateness_delivered": 40.94999999999999,
+          "time": 129.0,
+          "delivered": 8,
+          "on_time": 6,
+          "total": 8,
+          "returned": 8,
+          "distance": 820.0,
+          "energy_used": 256.0,
+          "waits": 14,
+          "route_detours": 0,
+          "reward": 187.30999999999992,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1008,
+          "steps": 147,
+          "wall_seconds": 0.013515040976926684,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 7,
+              "delivered": 7,
+              "on_time": 6
+            },
+            "2": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "3": {
+              "total": 0,
+              "delivered": 0,
+              "on_time": 0
+            }
+          },
+          "mean_lateness_delivered": 2.375,
+          "p95_lateness_delivered": 12.34999999999999,
+          "time": 147.0,
+          "delivered": 8,
+          "on_time": 7,
+          "total": 8,
+          "returned": 8,
+          "distance": 880.0,
+          "energy_used": 272.0,
+          "waits": 19,
+          "route_detours": 2,
+          "reward": 82.22999999999995,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        },
+        {
+          "policy": "random_dispatch",
+          "seed": 1009,
+          "steps": 107,
+          "wall_seconds": 0.009901041979901493,
+          "terminated": true,
+          "truncated": false,
+          "priority_metrics": {
+            "1": {
+              "total": 1,
+              "delivered": 1,
+              "on_time": 1
+            },
+            "2": {
+              "total": 4,
+              "delivered": 4,
+              "on_time": 4
+            },
+            "3": {
+              "total": 3,
+              "delivered": 3,
+              "on_time": 3
+            }
+          },
+          "mean_lateness_delivered": 0.0,
+          "p95_lateness_delivered": 0.0,
+          "time": 107.0,
+          "delivered": 8,
+          "on_time": 8,
+          "total": 8,
+          "returned": 8,
+          "distance": 680.0,
+          "energy_used": 224.0,
+          "waits": 36,
+          "route_detours": 0,
+          "reward": 175.53000000000003,
+          "backend": "abstract_network_v1",
+          "perception": "structured_state_no_vlm"
+        }
+      ]
+    }
+  }
+}
